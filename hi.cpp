@@ -8,6 +8,7 @@ using std::string;
 void sayHi(string name) {
     cout << "hi, " + name + "!" << endl;
 }
+
 int main() {
     string name;
     cin >> name;
